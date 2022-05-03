@@ -2,17 +2,14 @@
 
 ## I'm @WazzaMo (aka, Warwick Molloy)
 
-I build stuff with the Unity Game Engine, including some assets on the Asset Store, branded as Lokel Digital.
-- Orbit Designer
-- Kreation.Arduino (2 kinds)
+Working at Appeggio to enable people to easily create their own applications on web and mobile.
+See https://appeggio.com
 
 ## Interests
 
-3D visualisation in Unity and adding tangible interactions - I used to teach Tangible Interactions with Unity
-at Monash University.
-
-I also believe that people should travel to expand their horizons, open their minds to new cultures and become global citizens,
-so I work at Rome2Rio as an Engineering Manager.
+I build stuff with the Unity Game Engine, including some assets on the Asset Store, branded as Lokel Digital.
+- Orbit Designer
+- Kreation.Arduino (2 kinds)
 
 ---------------------------------------------------------------------------------------------
 

@@ -2,10 +2,12 @@
 
 ## I'm @WazzaMo (aka, Warwick Molloy)
 
-Working at Appeggio to enable people to easily create their own applications on web and mobile.
-See https://appeggio.com
+Working at Cevo, cloud enablement experts, to help people build cloud-native systems and solutions.
+See https://cevo.com.au
 
 ## Interests
+
+AWS cloud services - serverless computing, messaging and storage.
 
 I build stuff with the Unity Game Engine, including some assets on the Asset Store, branded as Lokel Digital.
 - Orbit Designer

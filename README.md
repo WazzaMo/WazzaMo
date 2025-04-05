@@ -1,9 +1,8 @@
 # Hi there
 
-## I'm @WazzaMo (aka, Warwick Molloy)
+## I'm @WazzaMo
 
-Working at Cevo, cloud enablement experts, to help people build cloud-native systems and solutions.
-See https://cevo.com.au
+(aka, Warwick Molloy)
 
 ## Interests
 

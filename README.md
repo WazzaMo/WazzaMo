@@ -7,10 +7,9 @@
 ## Interests
 
 AWS cloud services - serverless computing, messaging and storage.
+Agent Tools, LLMs and making them better.
+For example: https://www.agent-tools.pro
 
-I build stuff with the Unity Game Engine, including some assets on the Asset Store, branded as Lokel Digital.
-- Orbit Designer
-- Kreation.Arduino (2 kinds)
 
 ---------------------------------------------------------------------------------------------
 
